@@ -4,7 +4,7 @@
 
 | W    |  Date     | Chap.     | Topic                                            | Resources | Travels / Remarks     |
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
-|  2   |  7/1      |   1       | Introduction                                      |       |              |
+|  2   |  7/1      |   1,2       | Introduction                                      |       |              |
 |      |  9/1     |           | Hands on: Getting started python notebooks, get used to numpy, pandas, scikit-learn    |         |              |
 |      |  10/1     |           | Lab assignment 1                        |       |              |
 |  3   |  14/1      |   1       |                                       |       |              |
