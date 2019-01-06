@@ -29,18 +29,18 @@
 |      |  27/2     |           |   Hands on: clustering |         |              |
 |      |  28/2     |    ch 3 from MMDS book       |   Clustering: Locality Sensitive Hashing (LSH)                       |       |    http://infolab.stanford.edu/~ullman/mmds/ch3.pdf          |
 |  10  |  4/3      |           |    Lab assignment 3 continued                                   |       |              |
-|      |  6/3      |           |   Clustering: spectral clustering |         |              |
+|      |  6/3      |    9       |   Clustering: Cluster analysis |         |              |
 |      |  7/3      |           |   Hands on: LSH                       |       |              |
 |  11  |  11/3     |           |  **Lab assignment 3 Due**                                      |       |              |
-|      |  13/3     |    6       |    |         |              |
-|      |  14/3     |           |                         |       |              |
-|  12  |  18/3     |           |                                       |       |              |
-|      |  20/3     |           |    |         |              |
-|      |  21/3     |           |                         |       |              |
-|  13  |  25/3     |           |                                       |       |              |
-|      |  27/3     |           |    |         |              |
-|      |  28/3     |           |                         |       |              |
-|  14  |  1/4      |           |                                       |       |              |
+|      |  13/3     |           |   Neural Networks, Deep feed forward networks, Backpropagation |         |              |
+|      |  14/3     |           |   Hands on: ANNs                      |       |              |
+|  12  |  18/3     |           |   Work on project                                    |       |              |
+|      |  20/3     |           |   Convolutional Neural Networks (CNNs) |         |              |
+|      |  21/3     |           |   Hands on: CNNs                      |       |              |
+|  13  |  25/3     |           |   Work on project                                    |       |              |
+|      |  27/3     |           |   Recurrent Neural Networks (RNNs) |         |              |
+|      |  28/3     |           |   Hands on: RNNs                      |       |              |
+|  14  |  1/4      |           |   Work on Project                                    |       |              |
 |      |  3/4      |           |    |         |              |
 |      |  4/4      |           |                         |       |              |
 |  15  |  8/4      |           |                                       |       |              |
