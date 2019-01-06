@@ -14,25 +14,25 @@
 |      |  23/1     |    4       |    Classfication (Decision Trees) |         |              |
 |      |  24/1     |    4       |   Hands on: Decision trees, evaluating classifiers                      |       |              |
 |  5   |  28/1     |           |    **Lab assignment 1 Due**                                  |       |              |
-|      |  30/1     |    5       |    |         |              |
-|      |  31/1     |           |                         |       |              |
-|  6   |  4/2      |           |                                       |       |              |
-|      |  6/2      |           |    |         |              |
-|      |  7/2      |           |                         |       |              |
-|  7   |  11/2     |           |                                       |       |              |
-|      |  13/2     |           |    |         |              |
-|      |  14/2     |           |                         |       |              |
-|  8   |  18/2     |           |                                       |       |              |
-|      |  20/2     |           |    |         |              |
-|      |  21/1     |           |                         |       |              |
-|  9   |  25/2     |           |                                       |       |              |
-|      |  27/2     |           |    |         |              |
-|      |  28/2     |           |                         |       |              |
-|  10  |  4/3      |           |                                       |       |              |
-|      |  6/3      |           |    |         |              |
-|      |  7/3      |           |                         |       |              |
-|  11  |  11/3     |           |                                       |       |              |
-|      |  13/3     |           |    |         |              |
+|      |  30/1     |    5       |   Nearest neighbor classifiers, Bayesian classifiers |         |              |
+|      |  31/1     |    5       |   Hands on: Bayesian classifiers                      |       |              |
+|  6   |  4/2      |           |   Lab assignment 2 announced                                    |       |              |
+|      |  6/2      |    5       |   Support Vector Machines |         |              |
+|      |  7/2      |           |   Hands on: SVM                      |       |              |
+|  7   |  11/2     |           |   Lab assignment 2 continued                                    |       |              |
+|      |  13/2     |    6,7      |   Association Rule Mining, sequential patterns |         |              |
+|      |  14/2     |           |   Hands on: Rule mining                      |       |              |
+|  8   |  18/2     |           |   **Lab assignment 2 Due**                                    |       |              |
+|      |  20/2     |    7      |   Graph patterns |         |              |
+|      |  21/1     |    8       |  Clustering: K-Means, Hierarhical, DB-Scan                       |       |              |
+|  9   |  25/2     |           |    Lab assignment 3 out                                    |       |              |
+|      |  27/2     |           |   Hands on: clustering |         |              |
+|      |  28/2     |    8       |   Clustering: LSH                       |       |              |
+|  10  |  4/3      |           |    Lab assignment 3 continued                                   |       |              |
+|      |  6/3      |           |   Clustering: spectral clustering |         |              |
+|      |  7/3      |           |   Hands on: LSH                       |       |              |
+|  11  |  11/3     |           |  **Lab assignment 3 Due**                                      |       |              |
+|      |  13/3     |    6       |    |         |              |
 |      |  14/3     |           |                         |       |              |
 |  12  |  18/3     |           |                                       |       |              |
 |      |  20/3     |           |    |         |              |
