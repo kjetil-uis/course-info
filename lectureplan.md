@@ -20,10 +20,10 @@
 |      |  6/2      |           |   No lecture |         |              |
 |      |  7/2      |           |   Support Vector Machines                     |       |              |
 |  7   |  11/2     |           |   Lab assignment 2 continued                                    |       |              |
-|      |  13/2     |    6,7      |   Association Rule Mining, sequential patterns |         |              |
-|      |  14/2     |           |   Hands on: Rule mining                      |       |              |
-|  8   |  18/2     |           |                                      |       |              |
-|      |  20/2     |    7      |   Graph patterns |         |              |
+|      |  13/2     |          |   Linear Regression |         |              |
+|      |  14/2     |           |   Logistic Regression + Hands on                      |       |              |
+|  8   |  18/2     |           |    Lab assignment 2 continued                                   |       |              |
+|      |  20/2     |    6,7      |   Association Rule Mining, sequential patterns |         |              |
 |      |  21/1     |    8       |  Clustering: K-Means, Hierarhical, DB-Scan                       |       |              |
 |  9   |  25/2     |           |                                       |       |              |
 |      |  27/2     |           |   Hands on: clustering |         |              |
