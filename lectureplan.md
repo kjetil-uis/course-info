@@ -43,9 +43,12 @@
 |  14  |  1/4      |           |   Work on Project                                    |       |              |
 |      |  3/4      |           |    |         |              |
 |      |  4/4      |           |                         |       |              |
-|  15  |  8/4      |           |    Project+report due                                   |       |              |
+|  15  |  8/4      |           |                                       |       |              |
 |      |  10/4     |           |   No lecture  |         |              |
 |      |  11/4     |           |                         |       |              |
-|  16  |  8/4      |           |    Easter (No lecture)                                  |       |              |
-|      |  10/4     |           |   Easter (No lecture)  |         |              |
-|      |  11/4     |           |    Easter (No lecture)                     |       |              |
+|  16  |  15/4      |           |    Easter (No lecture)                                  |       |              |
+|      |  17/4     |           |   Easter (No lecture)  |         |              |
+|      |  18/4     |           |    Easter (No lecture)                     |       |              |
+|  17  |  22/4     |           |    Easter (No lecture)                                  |       |              |
+|      |  24/4     |           |   Project + report due  |         |              |
+|      |  18/4     |           |    Project presentation + Q&A                     |       |              |
