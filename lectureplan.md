@@ -5,7 +5,7 @@
 | W    |  Date     | Chap.     | Topic                                            | Resources | Travels / Remarks     |
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
 |  2   |  7/1      |   -     |         --No Lab--                              |       |              |
-|      |  9/1      |   1        |  Introduction  |         |              |
+|      |  9/1      |   1        |  Introduction, data preprocessing  |         |              |
 |      |  10/1     |   2        | Data, Hands on: Getting started python notebooks, get used to numpy, pandas, scikit-learn                         |       |              |
 |  3   |  14/1     |   1       |  Lab assignment 1 announced |       |              |
 |      |  16/1     |   2,3       |  Data Exploration  |         |              |
