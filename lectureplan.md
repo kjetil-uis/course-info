@@ -16,7 +16,7 @@
 |  5   |  28/1     |           |                                      |       |              |
 |      |  30/1     |    5       |   Nearest neighbor classifiers, Bayesian classifiers |         |              |
 |      |  31/1     |    5       |   Hands on: Bayesian classifiers                      |       |              |
-|  6   |  4/2      |           |   **Lab assignment 1 Due** Lab assignment 2 announced                                    |       |              |
+|  6   |  4/2      |           |   **Lab assignment 1 Due** and Lab assignment 2 announced                                    |       |              |
 |      |  6/2      |           |   No lecture |         |              |
 |      |  7/2      |           |   Support Vector Machines                     |       |              |
 |  7   |  11/2     |           |   Lab assignment 2 continued                                    |       |              |
@@ -25,22 +25,22 @@
 |  8   |  18/2     |           |                                      |       |              |
 |      |  20/2     |    7      |   Graph patterns |         |              |
 |      |  21/1     |    8       |  Clustering: K-Means, Hierarhical, DB-Scan                       |       |              |
-|  9   |  25/2     |           |    **Lab assignment 2 Due**  Lab assignment 3 announced                                    |       |              |
+|  9   |  25/2     |           |                                       |       |              |
 |      |  27/2     |           |   Hands on: clustering |         |              |
 |      |  28/2     |    ch 3 from MMDS book       |   Clustering: Locality Sensitive Hashing (LSH)                       |       |    http://infolab.stanford.edu/~ullman/mmds/ch3.pdf          |
-|  10  |  4/3      |           |    Lab assignment 3 continued                                   |       |              |
+|  10  |  4/3      |           |     **Lab assignment 2 Due**  and Lab assignment 3 announced                                   |       |              |
 |      |  6/3      |    9       |   Clustering: Cluster analysis |         |              |
 |      |  7/3      |           |   Hands on: LSH                       |       |              |
 |  11  |  11/3     |           |                                        |       |              |
 |      |  13/3     |           |   Neural Networks, Deep feed forward networks, Backpropagation |         |              |
 |      |  14/3     |           |   Hands on: ANNs                      |       |              |
-|  12  |  18/3     |           |  **Lab assignment 3 Due**  Work on project                                    |       |              |
+|  12  |  18/3     |           |  Lab assignment 3 continued                                     |       |              |
 |      |  20/3     |           |   Convolutional Neural Networks (CNNs) |         |              |
 |      |  21/3     |           |   Hands on: CNNs                      |       |              |
 |  13  |  25/3     |           |   Work on project                                    |       |              |
 |      |  27/3     |           |   Recurrent Neural Networks (RNNs) |         |              |
 |      |  28/3     |           |   Hands on: RNNs                      |       |              |
-|  14  |  1/4      |           |   Work on Project                                    |       |              |
+|  14  |  1/4      |           |   **Lab assignment 3 Due**  Work on project                                   |       |              |
 |      |  3/4      |           |    |         |              |
 |      |  4/4      |           |                         |       |              |
 |  15  |  8/4      |           |                                       |       |              |
