@@ -8,7 +8,7 @@
 |      |  9/1      |   1,2        |  Introduction, data preprocessing  |         |              |
 |      |  10/1     |   2        | Data, Hands on: Getting started python notebooks, get used to numpy, pandas, scikit-learn                         |       |              |
 |  3   |  14/1     |   2,3       |  Data Exploration, dimensionality reduction |       | This is normally a lab slot but swapped due to department event on 16th Jan             |
-|      |  16/1     |          |  Lab assignment 1 announced  |         |      Note the lab time is swapped with lecture, due to a department event, location is also changed (AR V-102 ([https://use.mazemap.com/#v=1&zlevel=1&left=5.6942916&right=5.6998302&top=58.9382070&bottom=58.9367275&sharepoitype=poi&sharepoi=133643&campusid=33][map]))        |
+|      |  16/1     |          |  Lab assignment 1 announced  |         |      Note the lab time is swapped with lecture, due to a department event, location is also changed (AR V-102 ([map](https://use.mazemap.com/#v=1&zlevel=1&left=5.6942916&right=5.6998302&top=58.9382070&bottom=58.9367275&sharepoitype=poi&sharepoi=133643&campusid=33)))        |
 |      |  17/1     |   3        |  Hands on: Data visualization, dimensionality reduction, data sampling                       |       |              |
 |  4   |  21/1     |           |    Lab assignment 1 continued                                   |       |              |
 |      |  23/1     |    4       |    Classfication (Decision Trees) |         |              |
