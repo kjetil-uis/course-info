@@ -17,7 +17,7 @@
 |      |  30/1     |    5       |   Nearest neighbor classifiers, Bayesian classifiers |         |              |
 |      |  31/1     |    5       |   Hands on: Bayesian classifiers                      |       |              |
 |  6   |  4/2      |           |   Lab assignment 2 announced                                    |       |              |
-|      |  6/2      |    5       |    |         |              |
+|      |  6/2      |           |   No lecture |         |              |
 |      |  7/2      |           |   Support Vector Machines                     |       |              |
 |  7   |  11/2     |           |   Lab assignment 2 continued                                    |       |              |
 |      |  13/2     |    6,7      |   Association Rule Mining, sequential patterns |         |              |
@@ -44,5 +44,8 @@
 |      |  3/4      |           |    |         |              |
 |      |  4/4      |           |                         |       |              |
 |  15  |  8/4      |           |    Project+report due                                   |       |              |
-|      |  10/4     |           |     |         |              |
+|      |  10/4     |           |   No lecture  |         |              |
 |      |  11/4     |           |                         |       |              |
+|  16  |  8/4      |           |    Easter (No lecture)                                  |       |              |
+|      |  10/4     |           |   Easter (No lecture)  |         |              |
+|      |  11/4     |           |    Easter (No lecture)                     |       |              |
