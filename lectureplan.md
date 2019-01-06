@@ -43,6 +43,6 @@
 |  14  |  1/4      |           |   Work on Project                                    |       |              |
 |      |  3/4      |           |    |         |              |
 |      |  4/4      |           |                         |       |              |
-|  15  |  8/4      |           |                                       |       |              |
-|      |  10/4     |           |    |         |              |
+|  15  |  8/4      |           |    Project+report due                                   |       |              |
+|      |  10/4     |           |    Proejct presentation? |         |              |
 |      |  11/4     |           |                         |       |              |
