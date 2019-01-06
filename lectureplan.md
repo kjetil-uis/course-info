@@ -27,7 +27,7 @@
 |      |  21/1     |    8       |  Clustering: K-Means, Hierarhical, DB-Scan                       |       |              |
 |  9   |  25/2     |           |    Lab assignment 3 out                                    |       |              |
 |      |  27/2     |           |   Hands on: clustering |         |              |
-|      |  28/2     |    8       |   Clustering: LSH                       |       |              |
+|      |  28/2     |    ch 3 from MMDS book       |   Clustering: Locality Sensitive Hashing (LSH)                       |       |    http://infolab.stanford.edu/~ullman/mmds/ch3.pdf          |
 |  10  |  4/3      |           |    Lab assignment 3 continued                                   |       |              |
 |      |  6/3      |           |   Clustering: spectral clustering |         |              |
 |      |  7/3      |           |   Hands on: LSH                       |       |              |
