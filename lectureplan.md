@@ -24,13 +24,13 @@
 |      |  14/2     |           |   Logistic Regression + Hands on                      |       |              |
 |  8   |  18/2     |           |    Lab assignment 2 continued                                   |       |              |
 |      |  20/2     |    6,7      |   Association Rule Mining, sequential patterns |         |              |
-|      |  21/1     |    8       |  Clustering: K-Means, Hierarhical, DB-Scan                       |       |              |
+|      |  21/1     |     ch 3 from MMDS book       |    Clustering: Locality Sensitive Hashing (LSH)                     |       |      http://infolab.stanford.edu/~ullman/mmds/ch3.pdf        |
 |  9   |  25/2     |           |   **Lab assignment 2 Due**  and Lab assignment 3 announced                                      |       |              |
-|      |  27/2     |           |   Hands on: clustering |         |              |
-|      |  28/2     |    ch 3 from MMDS book       |   Clustering: Locality Sensitive Hashing (LSH)                       |       |    http://infolab.stanford.edu/~ullman/mmds/ch3.pdf          |
+|      |  27/2     |           |  Hands on: LSH   |         |              |
+|      |  28/2     |   8       | Clustering: K-Means, Hierarhical, DB-Scan                         |       |              |
 |  10  |  4/3      |           |                                      |       |              |
-|      |  6/3      |    9       |   Clustering: Cluster analysis |         |              |
-|      |  7/3      |           |   Hands on: LSH                       |       |              |
+|      |  6/3      |    8       |   Clustering: Cluster analysis |         |              |
+|      |  7/3      |           |    Hands on: LSH                      |       |              |
 |  11  |  11/3     |           |                                        |       |              |
 |      |  13/3     |           |   Neural Networks, Deep feed forward networks, Backpropagation |         |              |
 |      |  14/3     |           |   Hands on: ANNs                      |       |              |
