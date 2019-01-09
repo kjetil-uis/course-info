@@ -25,10 +25,10 @@
 |  8   |  18/2     |           |    Lab assignment 2 continued                                   |       |              |
 |      |  20/2     |    6,7      |   Association Rule Mining, sequential patterns |         |              |
 |      |  21/1     |    8       |  Clustering: K-Means, Hierarhical, DB-Scan                       |       |              |
-|  9   |  25/2     |           |                                       |       |              |
+|  9   |  25/2     |           |   **Lab assignment 2 Due**  and Lab assignment 3 announced                                      |       |              |
 |      |  27/2     |           |   Hands on: clustering |         |              |
 |      |  28/2     |    ch 3 from MMDS book       |   Clustering: Locality Sensitive Hashing (LSH)                       |       |    http://infolab.stanford.edu/~ullman/mmds/ch3.pdf          |
-|  10  |  4/3      |           |     **Lab assignment 2 Due**  and Lab assignment 3 announced                                   |       |              |
+|  10  |  4/3      |           |                                      |       |              |
 |      |  6/3      |    9       |   Clustering: Cluster analysis |         |              |
 |      |  7/3      |           |   Hands on: LSH                       |       |              |
 |  11  |  11/3     |           |                                        |       |              |
@@ -37,10 +37,10 @@
 |  12  |  18/3     |           |  Lab assignment 3 continued                                     |       |              |
 |      |  20/3     |           |   Convolutional Neural Networks (CNNs) |         |              |
 |      |  21/3     |           |   Hands on: CNNs                      |       |              |
-|  13  |  25/3     |           |   Work on project                                    |       |              |
+|  13  |  25/3     |           |    **Lab assignment 3 Due**  Work on project                                   |       |              |
 |      |  27/3     |           |   Recurrent Neural Networks (RNNs) |         |              |
 |      |  28/3     |           |   Hands on: RNNs                      |       |              |
-|  14  |  1/4      |           |   **Lab assignment 3 Due**  Work on project                                   |       |              |
+|  14  |  1/4      |           |                                     |       |              |
 |      |  3/4      |           |    |         |              |
 |      |  4/4      |           |                         |       |              |
 |  15  |  8/4      |           |                                       |       |              |
