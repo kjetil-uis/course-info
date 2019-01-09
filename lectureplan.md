@@ -34,10 +34,10 @@
 |  11  |  11/3     |           |                                        |       |              |
 |      |  13/3     |           |   Neural Networks, Deep feed forward networks, Backpropagation |         |              |
 |      |  14/3     |           |   Hands on: ANNs                      |       |              |
-|  12  |  18/3     |           |  Lab assignment 3 continued                                     |       |              |
+|  12  |  18/3     |           |   **Lab assignment 3 Due**  Work on project                                    |       |              |
 |      |  20/3     |           |   Convolutional Neural Networks (CNNs) |         |              |
 |      |  21/3     |           |   Hands on: CNNs                      |       |              |
-|  13  |  25/3     |           |    **Lab assignment 3 Due**  Work on project                                   |       |              |
+|  13  |  25/3     |           |                                      |       |              |
 |      |  27/3     |           |   Recurrent Neural Networks (RNNs) |         |              |
 |      |  28/3     |           |   Hands on: RNNs                      |       |              |
 |  14  |  1/4      |           |                                     |       |              |
