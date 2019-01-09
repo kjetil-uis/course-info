@@ -30,7 +30,7 @@
 |      |  28/2     |   8       | Clustering: K-Means, Hierarhical, DB-Scan                         |       |              |
 |  10  |  4/3      |           |                                      |       |              |
 |      |  6/3      |    8       |   Clustering: Cluster analysis |         |              |
-|      |  7/3      |           |    Hands on: LSH                      |       |              |
+|      |  7/3      |           |    Hands on: Clustering                      |       |              |
 |  11  |  11/3     |           |                                        |       |              |
 |      |  13/3     |           |   Neural Networks, Deep feed forward networks, Backpropagation |         |              |
 |      |  14/3     |           |   Hands on: ANNs                      |       |              |
