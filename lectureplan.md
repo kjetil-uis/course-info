@@ -35,17 +35,17 @@
 |      |  13/3     |           |   Neural Networks, Deep feed forward networks, Backpropagation |         |              |
 |      |  14/3     |           |   Hands on: ANNs                      |       |              |
 |  12  |  18/3     |           |   **Lab assignment 3 Due**  Work on project                                    |       |              |
-|      |  20/3     |           |   Convolutional Neural Networks (CNNs) |         |              |
-|      |  21/3     |           |   Hands on: CNNs                      |       |              |
+|      |  20/3     |           | No lecture   |         |              |
+|      |  21/3     |           | No lecture                        |       |              |
 |  13  |  25/3     |           |                                      |       |              |
-|      |  27/3     |           |   Recurrent Neural Networks (RNNs) |         |              |
-|      |  28/3     |           |   Hands on: RNNs                      |       |              |
+|      |  27/3     |           |  Convolutional Neural Networks (CNNs) |         |              |
+|      |  28/3     |           |  Hands on: CNNs                       |       |              |
 |  14  |  1/4      |           |                                     |       |              |
-|      |  3/4      |           |    |         |              |
-|      |  4/4      |           |                         |       |              |
+|      |  3/4      |           |  Recurrent Neural Networks (RNNs)   |         |              |
+|      |  4/4      |           |   Hands on: RNNs                      |       |              |
 |  15  |  8/4      |           |                                       |       |              |
 |      |  10/4     |           |   No lecture  |         |              |
-|      |  11/4     |           |                         |       |              |
+|      |  11/4     |           |   Auto encoders                      |       |              |
 |  16  |  15/4      |           |    Easter (No lecture)                                  |       |              |
 |      |  17/4     |           |   Easter (No lecture)  |         |              |
 |      |  18/4     |           |    Easter (No lecture)                     |       |              |
