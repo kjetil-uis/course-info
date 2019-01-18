@@ -5,4 +5,6 @@
   * For data and task description see http://debs2019.org/Calls/Call_for_Grand_Challenge_Solutions.html
   * It also comes with a $1000 cash prize
 
-2. 
+2. Detecting earthquakes (Kaggle competition)
+ * For data and task see https://www.kaggle.com/c/LANL-Earthquake-Prediction/
+ * Also has cash prizes upto $20000
