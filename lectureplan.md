@@ -14,7 +14,7 @@
 |      |  23/1     |    4       |    Classfication (Decision Trees) |         |              |
 |      |  24/1     |    4       |   Hands on: Decision trees, evaluating classifiers                      |       |              |
 |  5   |  28/1     |           |                                      |       |              |
-|      |  30/1     |    5       |   Nearest neighbor classifiers, Bayesian classifiers |         |              |
+|      |  30/1     |    5       |   Ensemble methods, Random forests, Bayesian classifiers |         |              |
 |      |  31/1     |    5       |   Hands on: Bayesian classifiers                      |       |              |
 |  6   |  4/2      |           |   **Lab assignment 1 Due** and Lab assignment 2 announced                                    |       |              |
 |      |  6/2      |           |   No lecture |         |              |
@@ -36,7 +36,7 @@
 |      |  14/3     |           |   Hands on: ANNs                      |       |              |
 |  12  |  18/3     |           |   **Lab assignment 3 Due**  Work on project                                    |       |              |
 |      |  20/3     |           | No lecture   |         |              |
-|      |  21/3     |           | No lecture                        |       |              |
+|      |  21/3     |           |   Neural networks continued                     |       |              |
 |  13  |  25/3     |           |                                      |       |              |
 |      |  27/3     |           |  Convolutional Neural Networks (CNNs) |         |              |
 |      |  28/3     |           |  Hands on: CNNs                       |       |              |
