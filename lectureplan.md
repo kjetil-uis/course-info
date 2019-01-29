@@ -51,4 +51,4 @@
 |      |  18/4     |           |    Easter (No lecture)                     |       |              |
 |  17  |  22/4     |           |    Easter (No lecture)                                  |       |              |
 |      |  24/4     |           |   Project + report due  |         |              |
-|      |  18/4     |           |    Project presentation + Q&A                     |       |              |
+|      |  25/4     |           |    Project presentation + Q&A                     |       |              |
