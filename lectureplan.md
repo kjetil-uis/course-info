@@ -31,7 +31,7 @@
 |  10  |  4/3      |           |   Lab                                   |       |              |
 |      |  6/3      |    8       |   Clustering: Cluster analysis |         |              |
 |      |  7/3      |           |    Hands on: Clustering                      |       |              |
-|  11  |  11/3     |           |                                        |       |              |
+|  11  |  11/3     |           |     Lab                                   |       |              |
 |      |  13/3     |           |   Neural Networks, Deep feed forward networks, Backpropagation |         |              |
 |      |  14/3     |           |   Hands on: ANNs                      |       |              |
 |  12  |  18/3     |           |   **Lab assignment 3 Due**  Work on project                                    |       |              |
