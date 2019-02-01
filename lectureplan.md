@@ -28,7 +28,7 @@
 |  9   |  25/2     |           |   **Lab assignment 2 Due**  and Lab assignment 3 announced                                      |       |              |
 |      |  27/2     |           |  Hands on: LSH   |         |              |
 |      |  28/2     |   8       | Clustering: K-Means, Hierarhical, DB-Scan                         |       |              |
-|  10  |  4/3      |           |                                      |       |              |
+|  10  |  4/3      |           |   Lab                                   |       |              |
 |      |  6/3      |    8       |   Clustering: Cluster analysis |         |              |
 |      |  7/3      |           |    Hands on: Clustering                      |       |              |
 |  11  |  11/3     |           |                                        |       |              |
@@ -37,13 +37,13 @@
 |  12  |  18/3     |           |   **Lab assignment 3 Due**  Work on project                                    |       |              |
 |      |  20/3     |           | No lecture   |         |              |
 |      |  21/3     |           |   Neural networks continued                     |       |              |
-|  13  |  25/3     |           |                                      |       |              |
+|  13  |  25/3     |           |   Lab                                   |       |              |
 |      |  27/3     |           |  Convolutional Neural Networks (CNNs) |         |              |
 |      |  28/3     |           |  Hands on: CNNs                       |       |              |
-|  14  |  1/4      |           |                                     |       |              |
+|  14  |  1/4      |           |     Lab                                |       |              |
 |      |  3/4      |           |  Recurrent Neural Networks (RNNs)   |         |              |
 |      |  4/4      |           |   Hands on: RNNs                      |       |              |
-|  15  |  8/4      |           |                                       |       |              |
+|  15  |  8/4      |           |     Lab                                  |       |              |
 |      |  10/4     |           |   No lecture  |         |              |
 |      |  11/4     |           |   Auto encoders                      |       |              |
 |  16  |  15/4      |           |    Easter (No lecture)                                  |       |              |
