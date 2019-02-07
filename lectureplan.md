@@ -14,7 +14,7 @@
 |      |  23/1     |    4       |    Classfication (Decision Trees) |         |              |
 |      |  24/1     |    4       |   Hands on: Decision trees, evaluating classifiers                      |       |              |
 |  5   |  28/1     |           |                                      |       |              |
-|      |  30/1     |    5       |   Nearest neighbor classifiers, Bayesian classifiers |         |              |
+|      |  30/1     |    5       |   Ensemble methods, Random forests, Bayesian classifiers |         |              |
 |      |  31/1     |    5       |   Hands on: Bayesian classifiers                      |       |              |
 |  6   |  4/2      |           |   **Lab assignment 1 Due** and Lab assignment 2 announced                                    |       |              |
 |      |  6/2      |           |   No lecture |         |              |
@@ -28,22 +28,22 @@
 |  9   |  25/2     |           |   **Lab assignment 2 Due**  and Lab assignment 3 announced                                      |       |              |
 |      |  27/2     |           |  Hands on: LSH   |         |              |
 |      |  28/2     |   8       | Clustering: K-Means, Hierarhical, DB-Scan                         |       |              |
-|  10  |  4/3      |           |                                      |       |              |
+|  10  |  4/3      |           |   Lab                                   |       |              |
 |      |  6/3      |    8       |   Clustering: Cluster analysis |         |              |
 |      |  7/3      |           |    Hands on: Clustering                      |       |              |
-|  11  |  11/3     |           |                                        |       |              |
+|  11  |  11/3     |           |     Lab                                   |       |              |
 |      |  13/3     |           |   Neural Networks, Deep feed forward networks, Backpropagation |         |              |
 |      |  14/3     |           |   Hands on: ANNs                      |       |              |
 |  12  |  18/3     |           |   **Lab assignment 3 Due**  Work on project                                    |       |              |
 |      |  20/3     |           | No lecture   |         |              |
-|      |  21/3     |           | No lecture                        |       |              |
-|  13  |  25/3     |           |                                      |       |              |
+|      |  21/3     |           |   Neural networks continued                     |       |              |
+|  13  |  25/3     |           |   Lab                                   |       |              |
 |      |  27/3     |           |  Convolutional Neural Networks (CNNs) |         |              |
 |      |  28/3     |           |  Hands on: CNNs                       |       |              |
-|  14  |  1/4      |           |                                     |       |              |
+|  14  |  1/4      |           |     Lab                                |       |              |
 |      |  3/4      |           |  Recurrent Neural Networks (RNNs)   |         |              |
 |      |  4/4      |           |   Hands on: RNNs                      |       |              |
-|  15  |  8/4      |           |                                       |       |              |
+|  15  |  8/4      |           |     Lab                                  |       |              |
 |      |  10/4     |           |   No lecture  |         |              |
 |      |  11/4     |           |   Auto encoders                      |       |              |
 |  16  |  15/4      |           |    Easter (No lecture)                                  |       |              |
@@ -51,4 +51,4 @@
 |      |  18/4     |           |    Easter (No lecture)                     |       |              |
 |  17  |  22/4     |           |    Easter (No lecture)                                  |       |              |
 |      |  24/4     |           |   Project + report due  |         |              |
-|      |  18/4     |           |    Project presentation + Q&A                     |       |              |
+|      |  25/4     |           |    Project presentation + Q&A                     |       |              |
